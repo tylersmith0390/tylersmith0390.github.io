@@ -147,6 +147,34 @@ img {
 	#speedtest {
 		float: none;
 		width: auto;
+		background: #009696;
+	}
+	h1,h2 {
+		font-size: 1.5em
+	}
+
+}	
+@media only screen and (min-width: 630px) and (max-width: 1000px) {
+	#bio_header {
+		float: none;
+		width: auto;
+	}
+	#skills {
+		float: none;
+		width: auto;
+	}
+	#cheezburger {
+		float: none;
+		width: auto;
+	}
+	#hackeragency {
+		float: none;
+		width: auto;
+	}
+	#speedtest {
+		float: none;
+		width: auto;
+		background: #009696;
 	}
 	h1,h2 {
 		font-size: 1.5em
